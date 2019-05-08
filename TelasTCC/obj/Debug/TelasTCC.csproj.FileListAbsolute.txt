@@ -1,0 +1,72 @@
+D:\Semestre 3\Arquivos DTCC\TelasTCC\TelasTCC\bin\Debug\TelasTCC.exe.config
+D:\Semestre 3\Arquivos DTCC\TelasTCC\TelasTCC\bin\Debug\TelasTCC.exe
+D:\Semestre 3\Arquivos DTCC\TelasTCC\TelasTCC\bin\Debug\TelasTCC.pdb
+D:\Semestre 3\Arquivos DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csprojAssemblyReference.cache
+D:\Semestre 3\Arquivos DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmCad.resources
+D:\Semestre 3\Arquivos DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmLogin.resources
+D:\Semestre 3\Arquivos DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmMenu.resources
+D:\Semestre 3\Arquivos DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.Properties.Resources.resources
+D:\Semestre 3\Arquivos DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csproj.GenerateResource.cache
+D:\Semestre 3\Arquivos DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csproj.CoreCompileInputs.cache
+D:\Semestre 3\Arquivos DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.exe
+D:\Semestre 3\Arquivos DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.pdb
+D:\Semestre 3\Arquivos DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmPizza.resources
+E:\Semestre_3\TelasTCC\TelasTCC\bin\Debug\TelasTCC.exe.config
+E:\Semestre_3\TelasTCC\TelasTCC\bin\Debug\TelasTCC.exe
+E:\Semestre_3\TelasTCC\TelasTCC\bin\Debug\TelasTCC.pdb
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csprojAssemblyReference.cache
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmCad.resources
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmLogin.resources
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmMenu.resources
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.Properties.Resources.resources
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csproj.GenerateResource.cache
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csproj.CoreCompileInputs.cache
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.exe
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.pdb
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\bin\Debug\TelasTCC.exe.config
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\bin\Debug\TelasTCC.exe
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\bin\Debug\TelasTCC.pdb
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csprojAssemblyReference.cache
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmCad.resources
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmLogin.resources
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmMenu.resources
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.Properties.Resources.resources
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csproj.GenerateResource.cache
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csproj.CoreCompileInputs.cache
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.exe
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.pdb
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmModFinanceiro.resources
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmModVendas.resources
+E:\Semestre_3\DTCC\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmVendas.resources
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\bin\Debug\TelasTCC.exe.config
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\bin\Debug\TelasTCC.exe
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\bin\Debug\TelasTCC.pdb
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\bin\Debug\MySql.Data.dll
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\bin\Debug\Google.Protobuf.dll
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\bin\Debug\MySql.Data.xml
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csprojAssemblyReference.cache
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmCad.resources
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmModFinanceiro.resources
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmLogin.resources
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmMenu.resources
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmModVendas.resources
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmVendas.resources
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\obj\Debug\TelasTCC.Properties.Resources.resources
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csproj.GenerateResource.cache
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csproj.CoreCompileInputs.cache
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csproj.CopyComplete
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\obj\Debug\TelasTCC.exe
+C:\Users\robso\Documents\Janeslas_Visual-Studio\TelasTCC\TelasTCC\obj\Debug\TelasTCC.pdb
+E:\Semestre_3\TelasTCC\TelasTCC\bin\Debug\Google.Protobuf.dll
+E:\Semestre_3\TelasTCC\TelasTCC\bin\Debug\MySql.Data.xml
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmModFinanceiro.resources
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmModVendas.resources
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.csproj.CopyComplete
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmCadCliente.resources
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmPizzaria.resources
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmRestaurante.resources
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmModClientes.resources
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmModFornecedores.resources
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmModFuncionarios.resources
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmCadFornecedor.resources
+E:\Semestre_3\TelasTCC\TelasTCC\obj\Debug\TelasTCC.frmFinalizarCompra.resources
